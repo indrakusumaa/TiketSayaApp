@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "959385750124",
+    "firebase_url": "https://tiketsaya-89cc6.firebaseio.com",
+    "project_id": "tiketsaya-89cc6",
+    "storage_bucket": "tiketsaya-89cc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959385750124:android:5850a527388f4196dd2649",
+        "android_client_info": {
+          "package_name": "com.example.tiketsaya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959385750124-1hispo007r9slpqa0ktttik0cdg8vaur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV_On5tK0hHVCJz_a4DlTjuu3zGSiXrEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959385750124-1hispo007r9slpqa0ktttik0cdg8vaur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
